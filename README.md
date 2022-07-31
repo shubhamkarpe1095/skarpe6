@@ -1,16 +1,17 @@
-### Hi there 👋
+### About Me
 
-<!--
-**skarpe6/skarpe6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD student in Computational Combustion Lab <a href="https://ccl.gatech.edu//" target="_blank"> (CCL)</a> of <a href="https://www.ae.gatech.edu/" target="_blank"> Aerospace Engineering department</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, largely interested in computational modelling of turbulent reacting flows. Towards these ends, I spend my time studying mechanical engineering, aerospace engineering and some mathematical courses that have helped me to build strong foundation in the area of computational sciences with particular attention to fluid dynamics, turbulence and combustion modelling.     
 
-Here are some ideas to get you started:
+### Research Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Much of my current thesis work revolves around modelling non volatile particulate matter (nVPM) formation from gas turbine engines.  
+
+
+### Recent-ish News
+
+
+### Interests & Hobbies
+
+
+### Social Network
+
